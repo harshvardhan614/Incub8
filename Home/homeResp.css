@@ -1,3 +1,10 @@
+@media (min-width:1500px) {
+    #hero .text .heading div {
+        display: block;
+    }
+    
+}
+
 @media (max-width:1150px) {
     #hero .text {
         width: 50%;

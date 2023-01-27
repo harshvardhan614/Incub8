@@ -237,9 +237,9 @@ body::-webkit-scrollbar {
 
 #hero .img {
     background: linear-gradient(0deg, rgba(20, 20, 20, 0.4), rgba(36, 44, 51, 0.4)), url("../Data/main-img.jpg");
-    height: 90vh;
+    height: 85vh;
     max-height: 800px;
-    width: 60%;
+    width: 55%;
     background-position: top 25% right 0;
     background-size: cover;
     background-repeat: no-repeat;
